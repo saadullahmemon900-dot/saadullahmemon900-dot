@@ -3,15 +3,14 @@
 #  Hi there! I'm <span style="color: #2b6cb0;">Saad Ullah</span> 👋
 
 
-<a href="<a href="<a href="https://www.linkedin.com/in/saad-ullah-312762394/">">/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="<a href="https://github.com/saadullahmemon900-dot/saadullahmemon900-dot">"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/saad-ullah-312762394/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/saadullahmemon900-dot"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
 <a href="mailto:saad@daivo.tech"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
 <a href="https://www.daivo.tech/"><img src="https://img.shields.io/badge/Website-DaiVo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?saadullahmemon900-dot&color=00b4d8&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=saadullahmemon900-dot&color=00b4d8&style=for-the-badge&label=Profile+Views"/>
 
 </div>
 
@@ -170,18 +169,18 @@ Translating technical findings into **plain-language insights** clients and non-
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?saadullahmemon900-dot-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saadullahmemon900-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175"/>
 &nbsp;&nbsp;
 <a href="https://www.daivo.tech/"><img src="https://img.shields.io/badge/Website-Visit%20DaiVo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadullahmemon900-dot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&fire=DD2727" height="175"/>
+<img src="https://streak-stats.demolab.com?user=saadullahmemon900-dot&theme=tokyonight&hide_border=true&fire=DD2727" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?saadullahmemon900-dot&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saadullahmemon900-dot&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -191,7 +190,7 @@ Translating technical findings into **plain-language insights** clients and non-
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/saadullahmemon900-dot/saadullahmemon900-dot/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -241,10 +240,10 @@ philosophy:   "If the data can't be trusted, neither can the model."
 
 <br/>
 
-<a href="<a href="https://www.linkedin.com/in/saad-ullah-312762394/">"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/saad-ullah-312762394/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:saad@daivo.tech"><img src="https://img.shields.io/badge/Email-Send%20Me%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
-<a href="username=saadullahmemon900-dot"><img src="https://img.shields.io/badge/GitHub-See%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/saadullahmemon900-dot"><img src="https://img.shields.io/badge/GitHub-See%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>

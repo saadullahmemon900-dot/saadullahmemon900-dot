@@ -103,26 +103,28 @@ Translating technical findings into **plain-language insights** clients and non-
 | 🧠 **Core Engine** | Python + Streamlit, powered by an AI model for FAQ-style customer queries |
 | ⚡ **Innovation** | Clean chat-style UI with live AI response handling, built to plug into real business data |
 | 📈 **Impact** | Used as DaiVo's flagship sales demo for prospective clients |
-| 🔗 **Repo** | [github.com/YOUR-GITHUB-USERNAME/daivo-ai-support-demo](https://github.com/YOUR-GITHUB-USERNAME/daivo-ai-support-demo) |
+| 🔗 **Repo** | [github.com/YOUR-GITHUB-USERNAME/daivo-ai-support-demo](https://github.com/ahmed-647/daivo-ai-support) |
 
 </details>
-
-<br/>
-
 <details open>
-<summary><b>🍦 Ice Cream Shop Simulation (C++)</b> — click to expand</summary>
+<br/>
+<summary><b>🛡️ FraudShield AI (Machine Learning)</b> — click to expand</summary>
 <br/>
 
-> *"Fundamentals matter — OOP logic and simulation design, built from scratch."*
+> *"An AI-powered fraud detection system that analyzes transaction patterns and predicts fraudulent activities using machine learning."*
 
-| Dimension | Detail |
-|-----------|--------|
-| 🏛️ **Architecture** | Console-based simulation built in **C++** using core OOP principles |
-| 💾 **Logic** | Order management, inventory tracking, and transaction flow handled in code |
-| 🎯 **Purpose** | Strengthened foundational programming and logic-building skills |
-| 🔗 **Repo** | [github.com/YOUR-GITHUB-USERNAME/icecream-shop-simulation](https://github.com/YOUR-GITHUB-USERNAME/icecream-shop-simulation) |
+| Dimension           | Detail                                                                                                                                                |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🤖 **Architecture** | Python + Streamlit frontend with Scikit-learn machine learning pipeline                                                                               |
+| 📊 **Features**     | Detect fraudulent transactions, perform real-time predictions, preprocess input data, and display prediction results through an interactive dashboard |
+| 🧠 **Model**        | Supervised classification model trained with feature engineering and evaluated using Accuracy, Precision, Recall, and F1-Score                        |
+| 🎨 **Design**       | Clean, responsive, and user-friendly interface built for quick fraud analysis and testing                                                             |
+| 🚀 **Highlights**   | Interactive web app, efficient prediction workflow, modular code structure, and easy deployment                                                       |
+| 🔗 **Repo**         | [github.com/saadullahmemon900-dot/fraudshield-ai](https://github.com/saadullahmemon900-dot/fraudshield-ai)                                            |
 
 </details>
+
+
 
 <br/>
 
@@ -137,9 +139,28 @@ Translating technical findings into **plain-language insights** clients and non-
 | 🏛️ **Architecture** | Python + Streamlit frontend with structured data storage |
 | 📊 **Features** | Add, update, search, and visualize student records in real time |
 | 🔐 **Design** | Clean, simple UI focused on usability for non-technical users |
-| 🔗 **Repo** | [github.com/YOUR-GITHUB-USERNAME/student-management-system](https://github.com/YOUR-GITHUB-USERNAME/student-management-system) |
+| 🔗 **Repo** | [github.com/YOUR-GITHUB-USERNAME/student-management-system](https://github.com/saadullahmemon900-dot/Student-management-system) |
 
 </details>
+<br/>
+
+<details open>
+<summary><b>🚢 Titanic Survival Prediction (Machine Learning)</b> — click to expand</summary>
+<br/>
+
+> *"A machine learning project that predicts passenger survival on the Titanic using data preprocessing, feature engineering, and classification algorithms."*
+
+| Dimension           | Detail                                                                                                                                                  |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🤖 **Architecture** | Python with Pandas, NumPy, Scikit-learn, and Jupyter Notebook for end-to-end machine learning workflow                                                  |
+| 📊 **Features**     | Data cleaning, exploratory data analysis (EDA), feature engineering, model training, prediction generation, and Kaggle-ready submission                 |
+| 🧠 **Model**        | Random Forest Classifier with engineered features including Title, Family Size, IsAlone, Age Binning, and Fare Binning for improved prediction accuracy |
+| 📈 **Results**      | Optimized model achieving improved prediction performance through preprocessing, hyperparameter tuning, and feature engineering                         |
+| 🎨 **Highlights**   | Clean ML pipeline, reusable notebook structure, visual data analysis, and well-documented workflow from raw data to final predictions                   |
+| 🔗 **Repo**         | [github.com/saadullahmemon900-dot/titanic-survival-prediction](https://github.com/saadullahmemon900-dot/titanic-survival-prediction)                    |
+
+</details>
+
 
 ---
 
